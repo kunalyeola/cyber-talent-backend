@@ -1,0 +1,48 @@
+2026-03-08 14:19:32 [info]: Swagger Docs available at http://localhost:3000/api-docs
+2026-03-08 14:19:33 [info]: Data Source has been initialized!
+2026-03-08 14:19:33 [info]: Redis Client Connected
+2026-03-08 14:19:33 [info]: Kafka Producer Connected
+2026-03-08 14:19:33 [info]: Kafka Client Initialized successfully
+2026-03-08 14:19:33 [info]: Server is running on port 3000
+2026-03-08 14:20:42 [info]: Swagger Docs available at http://localhost:3000/api-docs
+2026-03-08 14:20:43 [info]: Data Source has been initialized!
+2026-03-08 14:20:43 [info]: Redis Client Connected
+2026-03-08 14:20:43 [info]: Kafka Producer Connected
+2026-03-08 14:20:43 [info]: Kafka Client Initialized successfully
+2026-03-08 14:20:43 [info]: Server is running on port 3000
+2026-03-08 14:20:54 [info]: Swagger Docs available at http://localhost:3000/api-docs
+2026-03-08 14:20:55 [info]: Data Source has been initialized!
+2026-03-08 14:20:55 [info]: Redis Client Connected
+2026-03-08 14:20:55 [info]: Kafka Producer Connected
+2026-03-08 14:20:55 [info]: Kafka Client Initialized successfully
+2026-03-08 14:20:55 [info]: Server is running on port 3000
+2026-03-08 14:22:53 [info]: Swagger Docs available at http://localhost:3000/api-docs
+2026-03-08 14:22:54 [info]: Data Source has been initialized!
+2026-03-08 14:22:54 [info]: Redis Client Connected
+2026-03-08 14:22:54 [info]: Kafka Producer Connected
+2026-03-08 14:22:54 [info]: Kafka Client Initialized successfully
+2026-03-08 14:22:54 [info]: Server is running on port 3000
+2026-03-08 14:42:41 [info]: Swagger Docs available at http://localhost:3000/api-docs
+2026-03-08 14:42:42 [info]: Prisma Client connected to database successfully.
+2026-03-08 14:42:42 [info]: Redis Client Connected
+2026-03-08 14:42:42 [info]: Kafka Producer Connected
+2026-03-08 14:42:42 [info]: Kafka Client Initialized successfully
+2026-03-08 14:42:42 [info]: Server is running on port 3000
+2026-03-08 14:44:16 [info]: Swagger Docs available at http://localhost:3000/api-docs
+2026-03-08 14:44:17 [info]: Prisma Client connected to database successfully.
+2026-03-08 14:44:17 [info]: Redis Client Connected
+2026-03-08 14:44:17 [info]: Kafka Producer Connected
+2026-03-08 14:44:17 [info]: Kafka Client Initialized successfully
+2026-03-08 14:44:17 [info]: Server is running on port 3000
+2026-03-08 14:47:53 [info]: Swagger Docs available at http://localhost:3000/api-docs
+2026-03-08 14:47:53 [info]: Prisma Client connected to database successfully.
+2026-03-08 14:47:53 [info]: Redis Client Connected
+2026-03-08 14:47:53 [info]: Kafka Producer Connected
+2026-03-08 14:47:53 [info]: Kafka Client Initialized successfully
+2026-03-08 14:47:53 [info]: Server is running on port 3000
+2026-03-08 14:48:05 [info]: Swagger Docs available at http://localhost:3000/api-docs
+2026-03-08 14:48:05 [info]: Prisma Client connected to database successfully.
+2026-03-08 14:48:05 [info]: Redis Client Connected
+2026-03-08 14:48:05 [info]: Kafka Producer Connected
+2026-03-08 14:48:05 [info]: Kafka Client Initialized successfully
+2026-03-08 14:48:05 [info]: Server is running on port 3000
